@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <color android:name="orange">#5BC0DE</color>-->
+    <color android:name="red">#FF4081</color>
+</selector>

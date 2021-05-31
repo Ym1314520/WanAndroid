@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/mainpassage"
+            android:title="知识体系" />
+
+        <item
+            android:id="@+id/progress"
+            android:title="项目"/>
+        <item
+            android:id="@+id/search"
+            android:title="@string/search" />
+        <item
+            android:id="@+id/collection"
+            android:title="@string/collection" />
+</menu>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">一起来玩安卓吧</string>
+    <string name="more" translatable="false">TODO</string>
+    <string name="good" translatable="false">TODO</string>
+    <string name="type">TextView</string>
+    <string name="lovePicture" translatable="false">TODO</string>
+    <string name="loves" translatable="false">TODO</string>
+    <string name="item1" translatable="false">公众号</string>
+    <string name="item2" translatable="false">常用网站</string>
+    <string name="item3" translatable="false">公众号</string>
+    <string name="search">导航</string>
+    <string name="collection" translatable="false">公众号</string>
+    <string name="main" translatable="false" />
+    <string name="go" translatable="false" />
+    <string name="program" translatable="false" />
+    <string name="table1" />
+    <string name="table2" />
+    <string name="table3" />
+
+
+    <string name="text1">横向查看</string>
+    <string name="text2">纵向查看</string>
+    <string name="text3">0</string>
+    <string name="todo1">TODO</string>
+    <string name="button1" translatable="false">Button</string>
+    <string name="text4">TextView</string>
+    <string name="text5">注册</string>
+    <string name="text6">请输入账号</string>
+    <string name="text7">请输入密码</string>
+    <string name="pic" translatable="false">pic</string>
+    <string name="button2" translatable="false">登 录</string>
+    <string name="button3" translatable="false">注 册 完 成</string>
+    <string name="remeber_pass">记住密码</string>
+    <string name="texts">1.0.1</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="login">login</string>
+</resources>

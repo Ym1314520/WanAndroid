@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginMe</string>
+    <string name="button1">登录</string>
+    <string name="button2">注册</string>
+    <string name="name1" />
+    <string name="todo">picture</string>
+    <string name="button3">完成注册</string>
+    <string name="name">输入注册账号</string>
+    <string name="name2">输入注册密码</string>
+    <string name="textview1">你好 Android</string>
+</resources>

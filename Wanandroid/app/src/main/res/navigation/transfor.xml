@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/transfor"
+    app:startDestination="@id/item2">
+
+    <fragment
+        android:id="@+id/item2"
+        android:name="com.example.wanandroid.fragment.System"
+        android:label="导航"
+        tools:layout="@layout/first_fragment" />
+    <fragment
+        android:id="@+id/item3"
+        android:name="com.example.wanandroid.fragment.ThirdFragment"
+        android:label="公众号"
+        tools:layout="@layout/third_fragment" />
+    <fragment
+        android:id="@+id/item1"
+        android:name="com.example.wanandroid.fragment.SecondFragment"
+        android:label="项目"
+        tools:layout="@layout/second_fragment" />
+</navigation>
